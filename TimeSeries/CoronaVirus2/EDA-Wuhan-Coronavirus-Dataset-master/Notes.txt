@@ -1,0 +1,25 @@
+A virus that was first reported in the Chinese city of Wuhan, has now spread to more than a dozen countries across the world, sparking an unprecedented health and economic crisis.
+The World Health Organization (WHO) has declared the outbreak of the Wuhan coronavirus “a public health emergency of international concern”.
+In this project, we shall take a brief look at the current crisis and then dive deeper into Kaggle’s “Novel Corona Virus 2019 Dataset”.
+What is a coronavirus?
+According to the WHO, coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV).
+A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans. The virus identified as the cause of the recent outbreak is being referred to as 2019-nCoV or Wuhan coronavirus.
+The crisis, as of today
+According to the latest report by the New York Times, “the number of confirmed infections rose to 37,198” and “death toll in China has risen to 811, surpassing the death toll from the SARS epidemic.”
+Sixteen cities in China, with a combined population of more than 50 million people, are on lockdown. Airlines across the globe have cancelled flights to and from China. Some countries are evacuating their citizens on special flights and further putting them under strict quarantine.
+To make matters worse, stock markets have plunged in China and markets across the world are feeling the effects. Some analysts predict that the outbreak presents a threat to the global economy and it has the potential to trigger far-reaching geopolitical consequences.
+An introduction to the dataset
+The “Novel Corona Virus 2019 Dataset”, published on Kaggle, has been collected by the John Hopkins University. The team has collected the data from various sources like WHO, local CDC and media outlets. They have also created a real-time dashboard to monitor the spread of the virus.`
+
+Disclaimer : Please note that the dataset is not being updated, so observations recorded below might not be a true reflection of the current scenario.
+
+Columns
+-------
+Sno - Serial number
+Date - Date and time of observation
+Province/State - Province or State of observation
+Country - Country of observation
+Last Update - Last update date of the row in UTC
+Confirmed - Cumulative number of confirmed cases
+Deaths - Cumulative number of deaths
+Recovered - Cumulative number of recovered cases
